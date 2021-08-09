@@ -11,7 +11,7 @@ import br.com.weliton.webflux.document.PlayList;
 import br.com.weliton.webflux.service.PlayListService;
 import reactor.core.publisher.Mono;
 
-@Component
+//@Component
 public class PlayListHandler {
 
 	@Autowired
