@@ -14,8 +14,8 @@ import reactor.core.publisher.Flux;
 import reactor.core.publisher.Mono;
 
 @RequiredArgsConstructor
-@RestController
-@RequestMapping("/playlist")
+//@RestController
+//@RequestMapping("/playlist")
 public class PlayListController {
 	
 	private final PlayListService playListService;
